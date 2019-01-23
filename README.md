@@ -1,6 +1,8 @@
 # AndroidPractice
 This is a little practice about Java Android.
-This task is a part of an Udacity: Android Basics course.
+There are some android apps what I made. 
+
+Udacity: Android Basics course.
 
 #JustJava-CoffeOrder
 
