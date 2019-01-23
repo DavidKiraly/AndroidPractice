@@ -10,5 +10,5 @@ This task is a part of an Udacity: Android Basics course.
 #CourtCounter
 
 
-<img src="https://github.com/DavidKiraly/AndroidPractice/blob/master/CourtCounter/CourtCounter.png?raw=true" width="400" height="500" />
+<img src="https://github.com/DavidKiraly/AndroidPractice/blob/master/CourtCounter/CourtCounter.png?raw=true" width="250" height="400" />
 
